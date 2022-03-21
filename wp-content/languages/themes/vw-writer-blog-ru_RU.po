@@ -1,0 +1,413 @@
+# Translation of Themes - VW Writer Blog in Russian
+# This file is distributed under the same license as the Themes - VW Writer Blog package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-09-03 10:30:50+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - VW Writer Blog\n"
+
+#. Theme Name of the plugin/theme
+msgid "VW Writer Blog"
+msgstr "VW Writer Blog"
+
+#. Description of the plugin/theme
+msgid "VW Writer Blog is a clean, sleek, modern and intuitive WordPress theme for people dealing with literature. This multipurpose theme is useful for book shops, online book stores, eBook portals, libraries, reading clubs, literary clubs as well as for writers, authors, journalists, editors, publishers, online course providers, online libraries, book hubs and similar websites concerned with literature, reading and books. It can also be used for writing literature blogs and to start an online store for selling music, movies and video games. It is thoughtfully crafted to cover all aspects of a literary website with attention to fine details. This bookstore and writer WordPress theme is readily responsive, cross-browser compatible and translation ready to fulfil the growing demands of present day users. It is a search engine optimized theme to easily divert traffic towards your site by ranking higher in search results. VW Writer Blog proposes for a profound customization to give your website a personalized feel. It has used social media icons to make your content reach maximum people. Banners and sliders bring vastness to the website. It follows standard coding rules yielding a bug-free and secure website. Demo: https://www.vwthemes.net/vw-writer-pro/"
+msgstr "VW Writer Blog - это простая, гладкая, современная и интуитивно понятная WordPress тема для людей, занимающихся литературой. Эта многоцелевая тема полезна для книжных магазинов, онлайн книжных магазинов, электронных порталов, библиотек, читальных клубов, литературных клубов, а также для писателей, авторов, журналистов, редакторов, издателей, онлайн-провайдеров курсов, онлайн-библиотек, книжных центров и подобных сайтов с литературой, чтением и книгами. Она также может использоваться для написания литературных блогов и создания интернет-магазина для продажи музыки, фильмов и видеоигр. Она продуманно разработана, чтобы охватить все аспекты литературного веб-сайта с вниманием к тонким деталям. Эта тема для книжного магазина и писателя WordPress легко адаптивна, совместима с браузерами и готова к переводу, чтобы удовлетворить растущие потребности современных пользователей. Она оптимизированна для поисковых система, что позволяет легко перенаправлять трафик на ваш сайт, занимая более высокое место в результатах поиска. VW Writer Blog предлагает глубокую настройку, чтобы дать вашему сайту ощущение индивидуальности. Она использует значки социальных сетей, чтобы сделать ваш контент максимально доступным для людей. Баннеры и слайдеры привносят на сайт обширность. Она соответствует стандартным правилам кодирования, предоставляющим безошибочный и безопасный веб-сайт. Демо: https://www.vwthemes.net/vw-writer-pro/"
+
+#: inc/customizer.php:139
+msgid "Section Title"
+msgstr "Заголовок раздела"
+
+#: inc/customizer.php:171
+msgid "Footer"
+msgstr "Нижний колонтитул"
+
+#: inc/customizer.php:172
+msgid "This section will appear in the footer"
+msgstr "Этот раздел появится в футере"
+
+#: inc/customizer.php:181
+msgid "Copyright Text"
+msgstr "Текст авторского права"
+
+#: inc/customizer.php:266
+msgid "Upgrade Pro"
+msgstr "Обновиться до Pro"
+
+#: no-results.php:17
+msgid "Ready to publish your first post? Get started here."
+msgstr "Готовы опубликовать вашу первую запись? Начните отсюда."
+
+#: no-results.php:11
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: no-results.php:19
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, по вашему запросу ничего не найдено. Попробуйте другие ключевые слова."
+
+#: page-template/custom-home-page.php:41 page-template/custom-home-page.php:84
+#: template-parts/content.php:27 template-parts/grid-layout.php:25
+msgid "READ MORE"
+msgstr "Подробнее"
+
+#: no-results.php:24
+msgid "Back to Home Page"
+msgstr "Перейти на домашнюю страницу"
+
+#: page-template/custom-home-page.php:82
+#: template-parts/single-post-layout.php:14
+msgid "0 Comment"
+msgstr "Нет комментариев"
+
+#: page-template/custom-home-page.php:82
+#: template-parts/single-post-layout.php:14
+msgid "0 Comments"
+msgstr "0 комментариев"
+
+#: page-template/custom-home-page.php:82
+#: template-parts/single-post-layout.php:14
+msgid "% Comments"
+msgstr "Комментарии (%)"
+
+#. translators: %s: search term
+#: search.php:19 search.php:53 search.php:86 search.php:119 search.php:154
+#: search.php:189
+msgid "Results For: %s"
+msgstr "Результаты поиска: %s"
+
+#: searchform.php:10
+msgctxt "placeholder"
+msgid "Search"
+msgstr "Найти"
+
+#: sidebar.php:17
+msgid "Meta"
+msgstr "Мета"
+
+#: sidebar.php:11
+msgid "Archives"
+msgstr "Архивы"
+
+#: template-parts/content.php:27 template-parts/grid-layout.php:25
+msgid "Read More"
+msgstr "Подробнее"
+
+#: template-parts/header/navigation.php:11 template-parts/header/topbar.php:11
+msgid "Menu"
+msgstr "Меню"
+
+#: woocommerce/checkout/form-checkout.php:29
+msgid "You must be logged in to checkout."
+msgstr "Вы должны войти в систему для покупки."
+
+#: template-parts/single-post-layout.php:40
+msgid "Previous post:"
+msgstr "Предыдущая запись:"
+
+#: template-parts/single-post-layout.php:39
+msgid "Previous"
+msgstr "Назад"
+
+#: template-parts/single-post-layout.php:37
+msgid "Next post:"
+msgstr "Следующая запись:"
+
+#: template-parts/single-post-layout.php:36
+msgid "Next"
+msgstr "Далее"
+
+#: template-parts/single-post-layout.php:31
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">Опубликовано в</span><span class=\"post-title\">%title</span>"
+
+#: template-parts/image-layout.php:32
+msgid "Edit"
+msgstr "Изменить"
+
+#: template-parts/image-layout.php:27
+msgid "Pages:"
+msgstr "Страниц:"
+
+#: woocommerce/checkout/form-checkout.php:55
+msgid "Your order"
+msgstr "Ваш заказ"
+
+#. Template Name of the plugin/theme
+msgid "Page with Left Sidebar"
+msgstr "Страница с левой боковой колонкой"
+
+#. Template Name of the plugin/theme
+msgid "Custom Home"
+msgstr "Пользовательская домашняя страница"
+
+#. Template Name of the plugin/theme
+msgid "Page with Right Sidebar"
+msgstr "Страница с правой боковой колонкой"
+
+#: inc/customizer.php:129
+msgid "Featured Articles"
+msgstr "Избранные статьи"
+
+#: inc/customizer.php:121
+msgid "Slider image size (1500 x 600)"
+msgstr "Размер изображения слайдера (1500 x 600)"
+
+#: inc/customizer.php:165
+msgid "Image size (270 x 345)"
+msgstr "Размер изображения (270 x 345)"
+
+#: inc/customizer.php:164
+msgid "Select Category to display Articles"
+msgstr "Выберите рубрику для показа статей"
+
+#: inc/customizer.php:265
+msgid "Writer Pro Theme"
+msgstr "Тема Writer Pro"
+
+#: page-template/custom-home-page.php:70
+msgid "MY FEATURED ARTICLES"
+msgstr "МОИ ИЗБРАННЫЕ СТАТЬИ"
+
+#: searchform.php:12
+msgctxt "submit button"
+msgid "Search"
+msgstr "Искать"
+
+#: template-parts/header/topbar.php:20
+msgid "DROP US A EMAIL"
+msgstr "НАПИШИТЕ НАМ ЕМЕЙЛ"
+
+#: template-parts/header/topbar.php:21
+msgid "info@example.com"
+msgstr "info@example.com"
+
+#: template-parts/header/topbar.php:39
+msgid "Any Questions? CALL US..."
+msgstr "Есть вопросы? ПОЗВОНИТЕ НАМ..."
+
+#: template-parts/header/topbar.php:40
+msgid "+91 968 923 9632"
+msgstr "+91 968 923 9632"
+
+#: functions.php:83
+msgid "Appears on footer 1"
+msgstr "Появится в футере 1"
+
+#: 404.php:13
+msgid "Not Found"
+msgstr "Не найдено"
+
+#: 404.php:13
+msgid "404"
+msgstr "404"
+
+#: archive.php:44 archive.php:80 archive.php:115 archive.php:150
+#: archive.php:187 archive.php:226 image.php:39 image.php:72 image.php:104
+#: image.php:136 image.php:170 image.php:205 index.php:44 index.php:77
+#: index.php:109 index.php:141 index.php:175 index.php:210 search.php:40
+#: search.php:74 search.php:107 search.php:140 search.php:175 search.php:212
+#: single.php:39 single.php:72 single.php:104 single.php:136 single.php:170
+#: single.php:205
+msgid "Next page"
+msgstr "Следующая страница"
+
+#: archive.php:43 archive.php:79 archive.php:114 archive.php:149
+#: archive.php:186 archive.php:225 image.php:38 image.php:71 image.php:103
+#: image.php:135 image.php:169 image.php:204 index.php:43 index.php:76
+#: index.php:108 index.php:140 index.php:174 index.php:209 search.php:39
+#: search.php:73 search.php:106 search.php:139 search.php:174 search.php:211
+#: single.php:38 single.php:71 single.php:103 single.php:135 single.php:169
+#: single.php:204
+msgid "Previous page"
+msgstr "Предыдущая страница"
+
+#: 404.php:17
+msgid "Return to the home page"
+msgstr "Вернуться на главную страницу"
+
+#: 404.php:15 no-results.php:22
+msgid "Dont worry&hellip it happens to the best of us."
+msgstr "Не волнуйтесь, и это случилось с лучшими из нас."
+
+#: 404.php:14
+msgid "Looks like you have taken a wrong turn&hellip"
+msgstr "Похоже, вы пошли не туда & hellip"
+
+#: archive.php:45 archive.php:81 archive.php:116 archive.php:151
+#: archive.php:188 archive.php:227 image.php:40 image.php:73 image.php:105
+#: image.php:137 image.php:171 image.php:206 index.php:45 index.php:78
+#: index.php:110 index.php:142 index.php:176 index.php:211 search.php:41
+#: search.php:75 search.php:108 search.php:141 search.php:176 search.php:213
+#: single.php:40 single.php:73 single.php:105 single.php:137 single.php:171
+#: single.php:206
+msgid "Page"
+msgstr "Страница"
+
+#. translators: %s: post title
+#: comments.php:30
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Один комментарий к &ldquo;%s&rdquo;"
+
+#: comments.php:70
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#: functions.php:52
+msgid "Blog Sidebar"
+msgstr "Боковая панель блога"
+
+#: functions.php:32
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+#: functions.php:53
+msgid "Appears on blog page sidebar"
+msgstr "Появится на боковой панели страницы блога"
+
+#: functions.php:62
+msgid "Page Sidebar"
+msgstr "Боковая панель страницы"
+
+#: functions.php:82
+msgid "Footer Navigation 1"
+msgstr "Навигация в подвале 1"
+
+#: functions.php:72
+msgid "Sidebar 3"
+msgstr "Боковая панель 3"
+
+#: functions.php:63 functions.php:73
+msgid "Appears on page sidebar"
+msgstr "Появится на боковой панели страницы"
+
+#: inc/customizer.php:21
+msgid "Description of what this panel does."
+msgstr "Описание того, что делает эта панель."
+
+#: inc/customizer.php:20
+msgid "VW Settings"
+msgstr "Настройки VW"
+
+#: header.php:17
+msgid "http://gmpg.org/xfn/11"
+msgstr "http://gmpg.org/xfn/11"
+
+#: functions.php:113
+msgid "Appears on footer 4"
+msgstr "Появится в футере 4"
+
+#: functions.php:112
+msgid "Footer Navigation 4"
+msgstr "Навигация в подвале 4"
+
+#: functions.php:103
+msgid "Appears on footer 3"
+msgstr "Появится в футере 3"
+
+#: functions.php:102
+msgid "Footer Navigation 3"
+msgstr "Навигация в подвале 3"
+
+#: functions.php:93
+msgid "Appears on footer 2"
+msgstr "Появится в футере 4"
+
+#: functions.php:92
+msgid "Footer Navigation 2"
+msgstr "Навигация в подвале 2"
+
+#: inc/customizer.php:37
+msgid "Do you want this section"
+msgstr "Вы хотите этот раздел"
+
+#: inc/customizer.php:32 inc/customizer.php:41
+msgid "Right Sidebar"
+msgstr "Правая колонка"
+
+#: inc/customizer.php:25
+msgid "General Settings"
+msgstr "Основные настройки"
+
+#: inc/customizer.php:60 inc/customizer.php:80
+msgid "Add Text"
+msgstr "Добавить текст"
+
+#: inc/customizer.php:50
+msgid "Topbar Settings"
+msgstr "Настройки верхней панели"
+
+#: inc/customizer.php:45
+msgid "Grid Layout"
+msgstr "Сетчатый макет"
+
+#: inc/customizer.php:44
+msgid "Four Columns"
+msgstr "Четыре колонки"
+
+#: inc/customizer.php:43
+msgid "Three Columns"
+msgstr "Три колонки"
+
+#: inc/customizer.php:42
+msgid "One Column"
+msgstr "Один столбец"
+
+#: inc/customizer.php:40
+msgid "Left Sidebar"
+msgstr "Левый сайдбар"
+
+#: inc/customizer.php:90
+msgid "Add Phone Number"
+msgstr "Добавьте номер телефона"
+
+#: inc/customizer.php:97
+msgid "Slider Settings"
+msgstr "Настройки слайдера"
+
+#: inc/customizer.php:120
+msgid "Select Slide Image Page"
+msgstr "Выберите страницу слайдов"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:35
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s комментарий для &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s комментария для &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s комментариев для &ldquo;%2$s&rdquo;"
+
+#: footer.php:31
+msgid "Copyright 2018"
+msgstr "Авторское право 2018"
+
+#: functions.php:190
+msgid "VW Writer Blog Theme "
+msgstr "Тема VW Writer Blog"
+
+#: inc/customizer.php:70
+msgid "Add Mail Address"
+msgstr "Добавьте емейл"
+
+#: inc/customizer.php:108
+msgid "Show / Hide slider"
+msgstr "Показать / Скрыть слайдер"
+
+#. Author URI of the plugin/theme
+msgid "https://www.vwthemes.com/"
+msgstr "https://www.vwthemes.com/"
+
+#. Author of the plugin/theme
+msgid "VW Themes"
+msgstr "VW Themes"
+
+#. Theme URI of the plugin/theme
+msgid "https://www.vwthemes.com/themes/free-wordpress-themes-for-writers/"
+msgstr "https://www.vwthemes.com/themes/free-wordpress-themes-for-writers/"
